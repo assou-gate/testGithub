@@ -1,0 +1,1 @@
+web gunicorn assouproject.wsgi:application -- log -file-
